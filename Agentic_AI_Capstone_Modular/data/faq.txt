@@ -1,0 +1,135 @@
+FREQUENTLY ASKED QUESTIONS (FAQ)
+
+==============================================
+ORDER & PAYMENT
+==============================================
+
+Q: How do I place an order?
+A: Browse products, add items to cart, proceed to checkout, enter shipping details, and complete payment. You'll receive an order confirmation email.
+
+Q: What payment methods do you accept?
+A: We accept credit/debit cards (Visa, Mastercard, Amex), UPI, net banking, digital wallets (Paytm, PhonePe, Google Pay), and cash on delivery (COD) for eligible orders.
+
+Q: Can I modify my order after placing it?
+A: Orders can be modified within 1 hour of placement if still in "Processing" status. Contact customer support immediately for changes.
+
+Q: Is cash on delivery available?
+A: Yes, COD is available for orders under ₹50,000. A nominal COD fee of ₹49 applies.
+
+Q: Do you offer EMI options?
+A: Yes, EMI options are available on orders above ₹3,000 through select credit cards and digital payment partners.
+
+==============================================
+SHIPPING & DELIVERY
+==============================================
+
+Q: How long does delivery take?
+A: Standard delivery takes 5-7 business days. Express delivery takes 2-3 business days. Same-day delivery available in select metro cities.
+
+Q: How can I track my order?
+A: Use the tracking number sent via email or check order status in your account dashboard. Real-time tracking is available.
+
+Q: What if I'm not home during delivery?
+A: Delivery partner will attempt delivery 3 times. You can also reschedule delivery or choose a pickup point option.
+
+Q: Do you ship internationally?
+A: Currently, we only ship within India. International shipping is not available at this time.
+
+Q: What are the shipping charges?
+A: Free shipping on orders above ₹999. Standard shipping is ₹49, and express shipping is ₹149.
+
+==============================================
+RETURNS & REFUNDS
+==============================================
+
+Q: What is your return policy?
+A: Items can be returned within 30 days of delivery in original condition with tags. Some items like intimate apparel are non-returnable.
+
+Q: How do I initiate a return?
+A: Log into your account, go to order history, select the item, and click "Return Item". Follow the instructions to schedule pickup.
+
+Q: When will I receive my refund?
+A: Refunds are processed within 7-10 business days after we receive the returned item. The amount is credited to your original payment method.
+
+Q: Can I exchange an item instead of returning it?
+A: Yes, exchanges are available for size or color variations subject to availability. Request through customer support.
+
+Q: Are return shipping charges refunded?
+A: Return shipping is free if the product is defective or wrong item was sent. For other returns, customer bears return shipping cost.
+
+==============================================
+ACCOUNT & SECURITY
+==============================================
+
+Q: How do I create an account?
+A: Click "Sign Up" on the homepage, enter your email and create a password. Verify your email to activate the account.
+
+Q: I forgot my password. What should I do?
+A: Click "Forgot Password" on the login page, enter your registered email, and follow the reset link sent to your email.
+
+Q: Is my payment information secure?
+A: Yes, we use industry-standard SSL encryption and PCI-DSS compliant payment gateways. We do not store complete card details.
+
+Q: Can I save multiple addresses?
+A: Yes, you can save multiple shipping addresses in your account for faster checkout.
+
+==============================================
+PRODUCTS & AVAILABILITY
+==============================================
+
+Q: How do I know if a product is in stock?
+A: Product pages show real-time stock status. "In Stock" items ship immediately. "Pre-order" items have expected availability dates.
+
+Q: Can I get notified when out-of-stock items are available?
+A: Yes, click "Notify Me" on the product page to receive an email alert when the item is back in stock.
+
+Q: Are product images accurate?
+A: We strive for accuracy, but actual colors may vary slightly due to screen settings. Check product descriptions for detailed specifications.
+
+Q: Do you offer gift wrapping?
+A: Yes, gift wrapping is available for ₹99 per item. Select the option during checkout.
+
+==============================================
+CUSTOMER SUPPORT
+==============================================
+
+Q: How can I contact customer support?
+A: Email us at support@example.com, call our helpline at 1800-XXX-XXXX (9 AM - 9 PM), or use the live chat on our website.
+
+Q: What are your customer support hours?
+A: Our support team is available Monday to Saturday, 9 AM to 9 PM IST. Email support is monitored 24/7.
+
+Q: How long does it take to get a response?
+A: Email responses within 24 hours. Live chat provides immediate assistance during business hours.
+
+Q: Can I visit a physical store?
+A: We are an online-only retailer. However, we have experience centers in select cities for product demos (appointment required).
+
+==============================================
+CANCELLATIONS
+==============================================
+
+Q: Can I cancel my order?
+A: Yes, orders can be cancelled free of charge before they ship. Once shipped, you'll need to refuse delivery or return after receiving.
+
+Q: How do I cancel an order?
+A: Log into your account, go to order history, and click "Cancel Order". Cancellation confirmation will be sent via email.
+
+Q: Will I get a full refund if I cancel?
+A: Yes, full refund is provided for cancelled orders. Refund is processed to the original payment method within 5-7 business days.
+
+==============================================
+PROMOTIONS & DISCOUNTS
+==============================================
+
+Q: How do I apply a coupon code?
+A: Enter the coupon code in the "Promo Code" field during checkout and click "Apply". Discount will be reflected in the order total.
+
+Q: Can I use multiple coupons on one order?
+A: No, only one coupon code can be applied per order. Choose the one that gives you the best discount.
+
+Q: Do you have a loyalty program?
+A: Yes, our rewards program lets you earn points on purchases. Points can be redeemed for discounts on future orders.
+
+Q: When do you have sales?
+A: Major sales during festivals, end-of-season clearances, and special promotional events. Subscribe to our newsletter for updates.

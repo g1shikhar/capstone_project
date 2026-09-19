@@ -1,0 +1,69 @@
+1. objective: create a real world org level design and architecture
+2. Persona - AI engineer Lead/ Data Science Lead/ Applied AI Consultants
+3. Responsibilities - design, build, test, justify and operate the design with safety and reliability 
+
+Industry Use case:
+
+1. Banking Operations - (Non-transactional support and advisory):
+
+
+
+Project Structure/ Project Flow:
+
+1. Problem Framing:
+
+define problem, target audience/users success criteria, and identify known risk. 
+
+Problem -  Building an automated assistance for supporting users with non-transactional and advisory queries?
+Primary User - Customers who use banking services.
+Success Criteria - Percentage of queries that go to humans should decrease over time. Performance improvement over baseline agent
+**Success Criteria**:
+	**Accuracy**: >90% on "Eligibility" questions.
+	**Safety**: 100% Refusal of "Transfer/Pay" commands.
+
+Risk: 2.1 protecting sensitive data
+      2.2 regulatory compliance
+      2.3 identity and access control
+      2.4 refusing/preventing unsafe/fraud request
+      2.5 escalating high-risk cases to human in the loop
+      2.6 Hallucination - data accuracy is important
+
+2. Building a basic/ baseline agent:
+Simple python -rule based agent that can handle input and generate responses.
+
+3. LLM integration:
+a. Gaurdrails - system instruction 
+b. Prompt Engineering - selection of right prompt
+
+4. Add Knowledge/RAG pipeline
+a. Vector DB
+b. text chunking/processing
+c. embedding Model(eg: sentence transformer for eg.)
+4. Similarity Search - Cosine for most part
+5. Persisting Vector DB
+
+5. Tools
+a. Tool/function logic(python)
+b. routing/selection logic
+
+6.Memory & Context Planning
+a. break down complex task into simple task and store each task in memeory (agent state class)
+b. short term memory - automatically captured in your cache or  RAM
+c. long term memeory - persisited long term memory
+d. memory reset and retention
+
+
+7. Adaptive learning
+a. feeback collection (human in the loop)
+b. agent behavioural change
+c. change comparision or before and after change
+
+8. Deployment readiness
+a. environment management
+b. logging and tracing
+c. handle runtime failures
+
+9. agent evalaution
+a. measure response quality
+b. review safety and ethics
+c. analyze failures or errors

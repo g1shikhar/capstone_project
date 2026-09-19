@@ -1,0 +1,21 @@
+interaction_id,user_rating,comments
+INT001,5,Very helpful and quick response. Got my order status immediately.
+INT002,4,Good service but took a bit longer than expected to get refund information.
+INT003,5,Excellent! The agent understood my issue and provided clear return instructions.
+INT004,2,Response was generic and didn't address my specific cancellation concern.
+INT005,5,Perfect! Got exactly what I needed about the exchange policy.
+INT006,3,Okay response but I had to ask follow-up questions to get complete information.
+INT007,5,Amazing service! The agent helped me track my order and provided delivery updates.
+INT008,4,Good but could be more proactive in suggesting solutions.
+INT009,1,Very disappointed. The information provided was incorrect about the return window.
+INT010,5,Outstanding support! Resolved my payment issue quickly and professionally.
+INT011,4,Helpful but the response could have been more concise.
+INT012,5,Great experience! Got detailed information about warranty coverage.
+INT013,3,Average. The agent answered my question but didn't provide additional helpful details.
+INT014,5,Superb! The agent went above and beyond to help with my order modification.
+INT015,2,Not satisfied. Had to repeat my question multiple times.
+INT016,4,Good service. Would appreciate faster response times.
+INT017,5,Excellent! Clear explanation of the shipping policy and delivery timeline.
+INT018,4,Helpful agent but the initial response missed some details.
+INT019,5,Perfect! Got comprehensive information about EMI options.
+INT020,3,Decent but expected more personalized assistance.

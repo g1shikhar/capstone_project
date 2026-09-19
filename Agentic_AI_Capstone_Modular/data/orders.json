@@ -1,0 +1,47 @@
+[
+  {
+    "order_id": "ORD123",
+    "customer_name": "Rahul Sharma",
+    "status": "Shipped",
+    "expected_delivery": "2025-01-20",
+    "items": ["Wireless Headphones", "USB Cable"],
+    "total_amount": 2999.00,
+    "order_date": "2025-01-10"
+  },
+  {
+    "order_id": "ORD124",
+    "customer_name": "Priya Patel",
+    "status": "Processing",
+    "expected_delivery": "2025-01-22",
+    "items": ["Laptop Stand"],
+    "total_amount": 1499.00,
+    "order_date": "2025-01-12"
+  },
+  {
+    "order_id": "ORD125",
+    "customer_name": "Amit Kumar",
+    "status": "Delivered",
+    "expected_delivery": "2025-01-15",
+    "items": ["Smartphone Case", "Screen Protector"],
+    "total_amount": 799.00,
+    "order_date": "2025-01-08"
+  },
+  {
+    "order_id": "ORD126",
+    "customer_name": "Sneha Reddy",
+    "status": "Cancelled",
+    "expected_delivery": null,
+    "items": ["Bluetooth Speaker"],
+    "total_amount": 3499.00,
+    "order_date": "2025-01-11"
+  },
+  {
+    "order_id": "ORD127",
+    "customer_name": "Vikram Singh",
+    "status": "Shipped",
+    "expected_delivery": "2025-01-21",
+    "items": ["Gaming Mouse", "Mousepad"],
+    "total_amount": 1899.00,
+    "order_date": "2025-01-13"
+  }
+]
